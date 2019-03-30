@@ -1,0 +1,7 @@
+1. Checkpoints/Val Results/Frozen Graph Files:
+
+https://drive.google.com/file/d/1eFm4JoSi23GRl5ZP3fUyJbE5q6U-b00B/view?usp=sharing
+
+2. Sample Data:
+
+https://drive.google.com/file/d/1m_cyvZ68k4jPgsnec63SH4ftlEBB4m0e/view?usp=sharing

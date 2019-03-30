@@ -2,6 +2,25 @@
 
 https://drive.google.com/file/d/1eFm4JoSi23GRl5ZP3fUyJbE5q6U-b00B/view?usp=sharing
 
+- Avaliable networks
+1) DeeplabV3+(TC)/Our Encoding : deeplagv3_plus_igcv_dd
+2) DeeplabV3+(TC)/MobileNetV2(SE)
+3) DeeplabV3+/MobileNetV2
+4) DeeplabV3+/ShuffleNetV2
+5) DeeplabV3+/YOLOv3
+6) DeeplabV3+(without ASPP)/MobileNetV2
+7) DeeplabV3+(without ASPP)/MobileNetV2(SE)
+8) SkipNet/IGCV3
+9) Ours : skip_igcv_hddc_(target)
+10) SkipNet/MobileNetV2
+11) SkipNet/MobileNetV2(SE) : skip_mobilenetv2_se_(crop)
+12) SkipNet/MobileNetV2(SE)(without randomcrop) : skip_mobilenetv2_se
+13) SkipNet/ShuffleNetV2
+14) SkipNet/YOLOv3
+15) U-Net/MobileNetV2
+16) U-Net/ShuffleNetV2
+17) U-Net/YOLOv3
+
 2. Sample Data:
 
 https://drive.google.com/file/d/1m_cyvZ68k4jPgsnec63SH4ftlEBB4m0e/view?usp=sharing
